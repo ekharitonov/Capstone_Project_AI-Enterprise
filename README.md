@@ -1,6 +1,6 @@
 # AI Enterprise Workflow - Capstone Project Submission
 
-My capstone project submission for the IBM AI Enterprise Workflow course on Coursera.
+Capstone project submission for the IBM AI Enterprise Workflow course on Coursera.
 
 ## Usage
 
